@@ -203,8 +203,3 @@ func main() {
 ## Conclusión
 
 Las goroutines y los canales son herramientas poderosas para manejar la concurrencia en Go. Con `sync.WaitGroup` y los canales, puedes sincronizar y comunicarte entre goroutines de manera efectiva. Practicar con estos ejemplos te ayudará a entender mejor cómo funcionan las goroutines y cómo puedes utilizarlas en tus propios proyectos.
-
----
-
-Espero que este README te sea útil para entender y trabajar con goroutines y la concurrencia en Go. Si tienes alguna pregunta o necesitas más ejemplos, ¡no dudes en pedirlo!
-```
