@@ -126,4 +126,3 @@ En este ejemplo, el contexto `ctx` se cancela automáticamente después de 3 seg
 
 El paquete `context` en Go es una herramienta poderosa para gestionar operaciones concurrentes y asegurar que las tareas que deben ser canceladas, respetar plazos o compartir valores entre goroutines puedan hacerlo de manera segura y efectiva.
 
-Espero que esta explicación te haya ayudado a entender el uso del paquete `context` en Go. Si tienes más preguntas o necesitas más ejemplos, ¡estaré encantado de ayudarte!
